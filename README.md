@@ -1,7 +1,5 @@
 Hi there 👋
 Welcome to Raghav's GitHub.
-I am Senior Information Security Engineer at Sophos. Proudly, I have Bachelor in Information Technology and Masters in Cyber Security.
-
 I am planning to work on some open-source security projects. Hope you like my work!
 Good Day!
 <!--
